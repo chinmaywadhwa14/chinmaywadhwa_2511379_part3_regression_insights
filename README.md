@@ -95,5 +95,4 @@ shows no statistically reliable sales benefit in this data.
 - `screenshots/residuals_preview.png`
 - `screenshots/model_comparison_preview.png`
 
-*(Screenshots must be captured directly from your own Excel/LibreOffice session after opening
-`regression_workbook.xlsx` — they cannot be generated for you.)*
+
